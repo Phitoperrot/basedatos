@@ -41,7 +41,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
 			<scope>test</scope>
-			<version>1.4.194</version><!--$NO-MVN-MAN-VER$ -->
+			<version>2.1.210</version><!--$NO-MVN-MAN-VER$ -->
 		</dependency>
 	</dependencies>
 	<build>
